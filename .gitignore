@@ -1,6 +1,3 @@
 # ZIL compilation artifacts
 *.z3
 *.zap
-*_freq.zap
-*_data.zap
-*_str.zap
